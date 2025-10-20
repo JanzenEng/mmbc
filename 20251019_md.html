@@ -13,7 +13,7 @@
   </header>
   <div class="sidebar">
     <a href="index.html">Player Rankings</a>
-    <a href="20240728_xd.html">Tournament Results</a>
+    <a href="20251019_md.html">Tournament Results</a>
   </div>
 
   <div class="container">
@@ -29,8 +29,8 @@
     </div>
 
     <div class="tabs">
-      <a href="20240728_md.html" class="tab">MD</a>
-      <a href="20240728_xd.html" class="tab active">XD</a>
+      <a href="20251019_md.html" class="tab active">MD</a>
+      <a href="20251019_xd.html" class="tab">XD</a>
     </div>
 
     <div class="rankings" id="rankings"></div>
@@ -38,7 +38,7 @@
 
   <script>
     async function loadTournamentResults() {
-      const res = await fetch('xd_results.json');
+      const res = await fetch('md_results.json');
       const data = await res.json();
 
       const select = document.querySelector('.tournament-select');

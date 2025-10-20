@@ -58,5 +58,75 @@
     ],
     "points": 1000,
 	  "matches": 1
+  },
+  {
+    "tournament": "2025-10-19",
+    "event": "XD",
+    "team": [
+      { "firstName": "Dylen", "lastName": "Tang" },
+      { "firstName": "Kah Yee", "lastName": "" }
+    ],
+    "points": 2000,
+	  "matches": 1
+  },
+  {
+    "tournament": "2025-10-19",
+    "event": "XD",
+    "team": [
+      { "firstName": "Andrew", "lastName": "" },
+      { "firstName": "Jeslyn", "lastName": "" }
+    ],
+    "points": 6000,
+	  "matches": 1
+  },
+  {
+    "tournament": "2025-10-19",
+    "event": "XD",
+    "team": [
+      { "firstName": "Marcus", "lastName": "Lee" },
+      { "firstName": "Christina", "lastName": "" }
+    ],
+    "points": 4000,
+	  "matches": 1
+  },
+  {
+    "tournament": "2025-10-19",
+    "event": "XD",
+    "team": [
+      { "firstName": "YY", "lastName": "" },
+      { "firstName": "Shu Wen", "lastName": "" }
+    ],
+    "points": 8000,
+	  "matches": 1
+  },
+  {
+    "tournament": "2025-10-19",
+    "event": "XD",
+    "team": [
+      { "firstName": "Thomas", "lastName": "" },
+      { "firstName": "Chen Xi", "lastName": "" }
+    ],
+    "points": 4000,
+	  "matches": 1
+  },
+  {
+    "tournament": "2025-10-19",
+    "event": "XD",
+    "team": [
+      { "firstName": "Janzen", "lastName": "Eng" },
+      { "firstName": "Felicia", "lastName": "" }
+    ],
+    "points": 2000,
+	  "matches": 1
+  },
+  {
+    "tournament": "2025-10-19",
+    "event": "XD",
+    "team": [
+      { "firstName": "Mak", "lastName": "" },
+      { "firstName": "Foo", "lastName": "" }
+    ],
+    "points": 2000,
+	  "matches": 1
   }
 ]

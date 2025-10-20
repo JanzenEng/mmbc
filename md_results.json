@@ -68,6 +68,96 @@
     ],
     "points": 1000,
 	  "matches": 1
+  },
+  {
+    "tournament": "2025-10-19",
+    "event": "MD",
+    "team": [
+      { "firstName": "Alvin", "lastName": "Tham" },
+      { "firstName": "Calvin", "lastName": "" }
+    ],
+    "points": 4000,
+	  "matches": 1
+  },
+  {
+    "tournament": "2025-10-19",
+    "event": "MD",
+    "team": [
+      { "firstName": "Dylen", "lastName": "Tang" },
+      { "firstName": "Janzen", "lastName": "Eng" }
+    ],
+    "points": 6000,
+	  "matches": 1
+  },
+  {
+    "tournament": "2025-10-19",
+    "event": "MD",
+    "team": [
+      { "firstName": "HS", "lastName": "" },
+      { "firstName": "YY", "lastName": "" }
+    ],
+    "points": 4000,
+	  "matches": 1
+  },
+  {
+    "tournament": "2025-10-19",
+    "event": "MD",
+    "team": [
+      { "firstName": "Cyrus", "lastName": "Tang" },
+      { "firstName": "Andrew", "lastName": "" }
+    ],
+    "points": 4000,
+	  "matches": 1
+  },
+  {
+    "tournament": "2025-10-19",
+    "event": "MD",
+    "team": [
+      { "firstName": "Kayden", "lastName": "" },
+      { "firstName": "Loh Wen", "lastName": "" }
+    ],
+    "points": 4000,
+	  "matches": 1
+  },
+  {
+    "tournament": "2025-10-19",
+    "event": "MD",
+    "team": [
+      { "firstName": "Ryan", "lastName": "Ten" },
+      { "firstName": "Kean", "lastName": "" }
+    ],
+    "points": 8000,
+	  "matches": 1
+  },
+  {
+    "tournament": "2025-10-19",
+    "event": "MD",
+    "team": [
+      { "firstName": "Thomas", "lastName": "" },
+      { "firstName": "WH", "lastName": "" }
+    ],
+    "points": 4000,
+	  "matches": 1
+  },
+  {
+    "tournament": "2025-10-19",
+    "event": "MD",
+    "team": [
+      { "firstName": "Marcus", "lastName": "Lee" },
+      { "firstName": "ZC", "lastName": "" }
+    ],
+    "points": 10000,
+	  "matches": 1
+  },
+  {
+    "tournament": "2025-10-19",
+    "event": "MD",
+    "team": [
+      { "firstName": "Kim", "lastName": "" },
+      { "firstName": "YJ", "lastName": "" }
+    ],
+    "points": 6000,
+	  "matches": 1
   }
   
 ]
